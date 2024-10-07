@@ -29,7 +29,7 @@ Antes de iniciar, você precisará ter o **Python 3.8+** instalado na sua máqui
    ```bash
    git clone https://github.com/vbertotto/webponto_streamlit.git
 
-Funcionalidades Futuras
+## Funcionalidades Futuras
 Integração com banco de dados relacional (ex: PostgreSQL).
 Hashing de senhas para maior segurança.
 Dashboard de administração para gerenciar usuários e registros.
@@ -37,11 +37,11 @@ Integração com controle de presença por biometria ou RFID.
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
-Faça um fork do repositório
+## Faça um fork do repositório
 Crie sua feature branch (git checkout -b feature/sua-feature)
 Faça commit das suas alterações (git commit -am 'Adiciona nova feature')
 Envie para a branch principal (git push origin feature/sua-feature)
 Abra um Pull Request
 
-##Licença
+## Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
